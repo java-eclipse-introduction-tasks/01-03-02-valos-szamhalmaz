@@ -15,7 +15,7 @@ Az eredményt két tizedes pontossággal jelenítse meg a magyar számformátumn
 ## AverageSpeedProject
 Írjon programot a következő feladat megoldására:   
 Egy labdarúgó-mérkőzés végén a statisztikai adatok között olvashatjuk, hogy az egyik játékos „s” km-t futott a teljes játékidő (90 perc) alatt. Mekkora volt az átlagsebessége? Írjon programot a feladat megoldására!    
-Álagsebesség a [wikipédián:](https://hu.wikipedia.org/wiki/Átlagsebesség). 
+Álagsebesség a [wikipédián:](https://hu.wikipedia.org/wiki/Átlagsebesség).      
 ![Képlet](https://wikimedia.org/api/rest_v1/media/math/render/svg/c9d532c2e83ce5616b53f3d1db9e6017fac01fee)    
 A program felhasználóbarát legyen és használja a megfelelő mértékegységet!    
 Az adattípus választásnál figyeljen arra, hogy a fizikai számítás pontos legyen!    
