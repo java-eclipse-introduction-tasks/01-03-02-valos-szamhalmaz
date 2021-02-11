@@ -1,4 +1,5 @@
 # 01-03-02-valos-szamhalmaz
+## Műveletek a valós számhalmazon
 A feladatok megoldása során készítsen tervet. A terv jelenjen meg a megoldásban kommentek formájában!     
 ## AppleFairProject
 Almát vásárolunk, melynek ára 250 Ft/kg. A diákok 15% kedvezményt kapunk. Kérjük be a megvételre került alma mennyiségét (kg) és írjuk ki a fizetendő összeget és a kedvezményes árat is, amit a diákok fizetnek!    
