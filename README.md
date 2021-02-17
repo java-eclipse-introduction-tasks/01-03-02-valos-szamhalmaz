@@ -13,7 +13,6 @@ Elektormos ellenállás a [wikipédián:](https://hu.wikipedia.org/wiki/Elektrom
 Írjon programot, amelyben deklarálja és kérje be az elektromos ellenállás kiszámításához szükséges változókat,  helyesen adja meg a kifejezést és a kiszámított értéket írja ki a képernyőre.    
 A program felhasználóbarát legyen és használja a megfelelő mértékegységet!    
 Az adattípus választásnál figyeljen arra, hogy a fizikai számítás pontos legyen!    
-Az eredményt két tizedes pontossággal jelenítse meg a magyar számformátumnak megfelelően!    
 ## AverageSpeedProject
 Írjon programot a következő feladat megoldására:   
 Egy labdarúgó-mérkőzés végén a statisztikai adatok között olvashatjuk, hogy az egyik játékos „s” km-t futott a teljes játékidő (90 perc) alatt. Mekkora volt az átlagsebessége? Írjon programot a feladat megoldására!    
@@ -21,4 +20,3 @@ Egy labdarúgó-mérkőzés végén a statisztikai adatok között olvashatjuk, 
 ![Képlet](https://wikimedia.org/api/rest_v1/media/math/render/svg/c9d532c2e83ce5616b53f3d1db9e6017fac01fee)    
 A program felhasználóbarát legyen és használja a megfelelő mértékegységet!    
 Az adattípus választásnál figyeljen arra, hogy a fizikai számítás pontos legyen!    
-Az eredményt két tizedes pontossággal jelenítse meg a magyar számformátumnak megfelelően!    
